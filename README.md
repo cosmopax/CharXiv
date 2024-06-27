@@ -1,5 +1,5 @@
 # 📊 CharXiv
-🏠[Home](https://charxiv.github.io/) | 🤗[Data](https://huggingface.co/datasets/princeton-nlp/CharXiv) | 🥇[Leaderboard](https://charxiv.github.io/#leaderboard) | 📄Paper (Soon!) | *Current Version: Beta*
+🏠[Home](https://charxiv.github.io/) | 🤗[Data](https://huggingface.co/datasets/princeton-nlp/CharXiv) | 🥇[Leaderboard](https://charxiv.github.io/#leaderboard) | 📄[Paper](https://arxiv.org/abs/2406.18521) | *Current Version: Beta*
 
 This repository contains the code to evaluate models on CharXiv from the paper CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs.
 
